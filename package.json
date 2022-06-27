@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@esri/react-arcgis": "^5.1.0"
+  }
+}
